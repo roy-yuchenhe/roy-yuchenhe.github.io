@@ -27,6 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Roy He holds a Ph.D. from Georgia Institute of Technology (Best thesis), a Master's degree from Columbia University, and a B.Sc. (Honours) from Chongqing University. He conducted research as a visiting researcher at Ecole Normale Superieure Paris-Saclay in 2020. Although accepted as a post-doctoral candidate at Duke University in 2021, he was unable to attend due to COVID-related travel restrictions. Instead, he served as a post-doctoral researcher at Shanghai Jiao Tong University from 2021 to 2023. In 2023, he joined City University of Hong Kong as an Assistant Professor.
+
+His research interests encompass variational and statistical image processing (segmentation, decomposition, reconstruction, color enhancement, etc.), data-driven modeling (PDE identification), mathematical computer graphics (image vectorization), numerical PDE and optimization, and deep learning theory and applications in computer vision.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
