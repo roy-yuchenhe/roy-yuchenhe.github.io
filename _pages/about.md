@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.cityu.edu.hk/en/ma/about-us/ma-academic-faculty'>Department of Mathematics, City University of Hong Kong</a>. Tat Chee Avenue, Kowloon, Hong Kong SAR
 
 profile:
   align: right
