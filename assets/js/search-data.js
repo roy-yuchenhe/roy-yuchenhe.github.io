@@ -453,7 +453,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-data-driven-differential-equation-identification",
           title: 'Data-driven Differential Equation Identification',
-          description: "with background image",
+          description: "Identify differential equation from trajectory data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
