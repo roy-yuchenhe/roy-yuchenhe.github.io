@@ -1,18 +1,19 @@
 ---
 layout: page
 title: Data-driven Differential Equation Identification
-description: with background image
+description: Identify differential equation from trajectory data
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Data-driven differential equation identification seeks to uncover the governing dynamical models underlying observed phenomena, whether traced from physical experiments or emerging from biological processes.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Our research pursues three interconnected objectives:
+- Algorithm Development: designing effective, robust, and interpretable methods for recovering differential equations from noisy, sparse, or high-dimensional data.
+- Identifiability Theory:  establishing mathematical frameworks to characterize identifiability conditions for various differential equations.
+- Uncertainty Quantification: characterizing and propagating uncertainty through the identification pipeline to produce reliable, trustworthy models
 
     ---
     layout: page
