@@ -22,7 +22,7 @@ reconstructs the original. Our methods enable each component to be processed,  a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/demo_GPIDENT.png" title="Some results" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/brain_reconstruct.png" title="Some results" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,7 +31,16 @@ reconstructs the original. Our methods enable each component to be processed,  a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/patch_ident.png" title="CaSLR" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NINRF_demo.png" title="CaSLR" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Consistent and Sparse Local Regression (CaSLR) identifies varying coefficient PDEs using local patches, within each of which the varying coefficients are well approximated by constants.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DSP-CTR-demo.png" title="CaSLR" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
