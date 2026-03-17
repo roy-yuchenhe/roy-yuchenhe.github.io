@@ -8,48 +8,46 @@ category: work
 related_publications: true
 ---
 
-Images encode rich visual information across multiple scales and structures. 
-We develop variational and statistical methods to extract, analyze, and process 
-this information, with applications spanning image decomposition, reconstruction, 
-inpainting, segmentation, and color enhancement.
+Image reconstruction is a fundamental inverse problem arising across diverse scientific and engineering domains — from medical imaging and remote sensing to computational photography. Given incomplete, noisy, or indirectly observed measurements, the goal is to recover the underlying image faithfully. We develop robust variational models and efficient algorithms to address challenging reconstruction problems, with an emphasis on theoretical guarantees and practical performance.
 
 ---
 
 ## Tomographic Reconstruction
 
-*Image decomposition aims to separate an image into visually meaningful components whose superposition 
-reconstructs the original. Our methods enable each component to be processed,  analyzed, or enhanced independently, with applications in denoising, texture separation, and image editing.*
+*Tomographic reconstruction aims at recovering the .*
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brain_reconstruct.png" title="Some results" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/brain_reconstruct.png" title="MRI-guided brain intervention" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Some identification results
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/NINRF_demo.png" title="CaSLR" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Consistent and Sparse Local Regression (CaSLR) identifies varying coefficient PDEs using local patches, within each of which the varying coefficients are well approximated by constants.
+    Real-time MRI-guided brain intervention based on deep unrolled neural network.
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DSP-CTR-demo.png" title="CaSLR" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NINRF_demo.png" title="NINRF" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Consistent and Sparse Local Regression (CaSLR) identifies varying coefficient PDEs using local patches, within each of which the varying coefficients are well approximated by constants.
+    Proposed non-negative INR factorization model for dynamic PET reconstruction.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DSP-CTR-demo.png" title="DSP-CTR" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Robust dynamic SPECT reconstruction with scarce angular and limited temporal sampling using  Deep Spatial Prior with Continuous Temporal Representation. 
 </div>
 
 #### References
 
-{% cite he2022robust %}
+{% cite he2023deep %}
+{% cite zhang2025dynamic %}
+{% cite wu2026robust %}
 
 ---
 
