@@ -425,12 +425,12 @@ enable_video_embedding: false
 news:
   enabled: false
   limit: 5
-  scrollable: true
+  scrollable: false
 
 latest_posts:
   enabled: false
   limit: 3
-  scrollable: true
+  scrollable: false
 
 
 # -----------------------------------------------------------------------------
