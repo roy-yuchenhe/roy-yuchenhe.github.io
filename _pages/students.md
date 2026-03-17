@@ -15,7 +15,7 @@ nav_order: 6
 | **Jin GUO (郭瑾)** | 2024 | HUST (BSc.), HUST (MSc.) | Learning theory, Diffusion model |
 | **Xiao LIU (刘潇)** | 2025 | HUST (BSc.) | Computational geometry, Deep learning application |
 
-### Undergraduate & Master Students
+## Undergraduate & Master Students
 
 | Name | Since | Degree | Research Project |
 |---|---|---|---|
