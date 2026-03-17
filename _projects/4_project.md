@@ -2,7 +2,7 @@
 layout: page
 title: Image Vectorization and Shape Analysis
 description: Variational models for resolution-independent image representation
-img: assets/img/ident_demo.png
+img: assets/img/vec_demo.png
 importance: 1
 category: work
 related_publications: true
