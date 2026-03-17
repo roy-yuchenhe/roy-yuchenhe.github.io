@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-Image reconstruction is a fundamental inverse problem arising across diverse scientific and engineering domains — from medical imaging and remote sensing to computational photography. Given incomplete, noisy, or indirectly observed measurements, the goal is to recover the underlying image faithfully. We develop robust variational models and efficient algorithms to address challenging reconstruction problems, with an emphasis on theoretical guarantees and practical performance.
+Image reconstruction is a fundamental inverse problem arising across diverse scientific and engineering domains — from medical imaging and remote sensing to computational photography. Given incomplete, noisy, or indirectly observed measurements, the goal is to recover the underlying image faithfully. We develop robust variational models and efficient algorithms to address challenging reconstruction problems, with an emphasis on theoretical guarantees and practical performance. 
 
 ---
 
