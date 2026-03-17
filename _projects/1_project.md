@@ -129,16 +129,9 @@ Our research pursues three interconnected objectives:
 
 ## Identifiability Theory
 
-*Description coming soon.*
+A fundamental question in data-driven PDE identification is: *under what conditions 
+can the governing equation be uniquely recovered from observed data?* We showed:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="placeholder" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Figure placeholder. Replace with your result figure.
-</div>
 
 #### References
 
