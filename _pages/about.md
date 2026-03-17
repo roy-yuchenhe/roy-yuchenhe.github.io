@@ -38,9 +38,9 @@ computing, and machine learning, with a focus on:
 - **Numerical PDE and optimization** — non-convex optimization, primal-dual algorithms, and operator splitting methods
 - **Deep learning theory and applications** — theoretical foundations and applications in computer vision and inverse problems
 
+---
 
-
-## Gallery
+## My Paintings
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -51,5 +51,29 @@ computing, and machine learning, with a focus on:
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/paint3.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/paint4.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/paint5.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/paint6.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/paint7.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/paint8.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/paint9.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
