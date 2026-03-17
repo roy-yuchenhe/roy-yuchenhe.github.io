@@ -23,11 +23,11 @@ rendering.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/demo_GPIDENT.png" title="Some results" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/fish_demo.png" title="Comparison" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Some identification results
+    Compared to commercial software, our approach yields more interpretable and efficienct vector graphics.
 </div>
 
 <div class="row">
