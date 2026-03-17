@@ -44,7 +44,7 @@ Our research pursues three interconnected objectives:
 #### References
 
 {% cite he2022robust %}
-{% cite he2023gpident %}
+
 
 ---
 
@@ -54,16 +54,18 @@ Our research pursues three interconnected objectives:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2.jpg" title="placeholder" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/demo_GPIDENT.png" title="Some results" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Figure placeholder. Replace with your result figure.
+    Some identification results
 </div>
 
 #### References
 
-{% cite he2023gpident %}
+{% cite he2023group %}
+{% cite he2025group %}
+{% cite tang2025wg %}
 
 ---
 
