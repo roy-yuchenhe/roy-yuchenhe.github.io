@@ -16,11 +16,12 @@ nav_order: 6
 | **Xiao LIU (刘潇)** | 2025 | HUST (BSc.) | Computational geometry, Deep learning application |
 
 ### Undergraduate & Master Students
+
 | Name | Since | Degree | Research Project |
 |---|---|---|---|
-| **Yiming Xu (徐一鸣)** | 2026 | CityUHK (BSc.) *(ongoing)* | Network hallucination |
-| **Vincent Collin Yennoto** | 2026 | CityUHK (BSc.) *(ongoing)* | Image feature extraction |
-| **Yuk Yuen Cheung (Ivan)** | 2025 | CityUHK (BSc.) *(ongoing)* | Deep inverse prior, Image style transfer|
-| **Yan Zhang (张研)** | 2025 | CityUHK (MSc.) *(graduated)* | Image segmentation |
-| **Bo Chen (陈博)** | 2025 | University of Kent, UK (BSc.) *(graduated)* | Plug-and-play |
-| **Zhe Wang (王哲)** | 2024 | University of Liverpool, UK (BSc.) *(graduated)* | Image style transfer |
+| **Yiming Xu (徐一鸣)** | 2026 | CityUHK (BSc. *ongoing*) | Network hallucination |
+| **Vincent Collin Yennoto** | 2026 | CityUHK (BSc. *ongoing*) | Image feature extraction |
+| **Yuk Yuen Cheung (Ivan)** | 2025 | CityUHK (BSc. *ongoing*) | Deep inverse prior, Image style transfer |
+| **Yan Zhang (张研)** | 2025 | CityUHK (MSc. *graduated*) | Image segmentation |
+| **Bo Chen (陈博)** | 2025 | University of Kent, UK (BSc. *graduated*) | Plug-and-play |
+| **Zhe Wang (王哲)** | 2024 | University of Liverpool, UK (BSc. *graduated*) | Image style transfer |
