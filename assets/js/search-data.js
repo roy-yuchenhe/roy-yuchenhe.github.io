@@ -438,6 +438,11 @@ ninja.data = [{
           description: "Applications of variational principles and deep learning to image reconstruction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-image-vectorization-and-shape-analysis",
+          title: 'Image Vectorization and Shape Analysis',
+          description: "Variational models for resolution-independent image representation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
