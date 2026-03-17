@@ -428,6 +428,11 @@ ninja.data = [{
           description: "Identify differential equation from trajectory data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-mathematical-and-deep-learning-for-image-processing",
+          title: 'Mathematical and Deep Learning for Image Processing',
+          description: "Diverse applications of mathematical tools and deep learning techniques to image processing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
