@@ -1,189 +1,214 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Roy Yuchen He
+  label: Assistant Professor
+  email: royhe2@cityu.edu.hk
+  location: Hong Kong SAR, China
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Assistant Professor in the Department of Mathematics at City University of Hong Kong. Research interests include variational and statistical image processing, data-driven modeling, PDE identification, machine learning theory, and computer graphics.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: roy-yuchenhe
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Department of Mathematics, Tat Chee Avenue, Kowloon
+    city: Hong Kong
+    region: Hong Kong SAR
+    countryCode: HK
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Georgia Institute of Technology
+        location: Atlanta, Georgia, USA
+        degree: Ph.D. in Mathematics
+        start_date: 2016
+        end_date: 2021
+        description:
+          - "Advisor: Prof. Sung Ha Kang"
+          - "Dissertation: Data-driven Mathematical Modeling: Applications in Image Processing, Computer Graphics, and PDE Identification"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Columbia University
+        location: New York, USA
+        degree: M.A. in Statistics
+        start_date: 2014
+        end_date: 2016
+        description:
+          - "Cumulative GPA: 4.00 / 4.00"
+
+      - institution: Chongqing University
+        location: Chongqing, China
+        degree: B.S. with Honors in Mathematical Statistics
+        start_date: 2009
+        end_date: 2013
+        description:
+          - "Major GPA: 4.00 / 4.00"
+          - "Thesis: Statistical Description of Roots of the ζ Function"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: City University of Hong Kong
+        position: Assistant Professor
+        location: Hong Kong SAR, China
+        start_date: 2023-09
+        end_date: present
+        description:
+          - Department of Mathematics
+          - "Focus: Dynamical data analysis and modeling, deep learning theories and applications in inverse problems."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Shanghai Jiao Tong University
+        position: Postdoctoral Researcher
+        location: Shanghai, China
+        start_date: 2021-09
+        end_date: 2023-09
+        description:
+          - Institute of Natural Sciences
+          - "Supervisor: Prof. Xiaoqun Zhang"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Duke University
+        position: Postdoctoral Researcher
+        location: North Carolina, USA
+        start_date: 2021-07
+        end_date: 2023-07
+        description:
+          - Department of Mathematics
+          - "Supervisor: Prof. Hongkai Zhao"
+          - "Focus: PDE identification, image processing and deep learning."
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: École Normale Supérieure Paris-Saclay
+        position: Researcher
+        location: Paris, France
+        start_date: 2020-01
+        end_date: 2021-07
+        description:
+          - "Supervisor: Prof. Jean-Michel Morel"
+          - "Focus: Image processing and image vectorization."
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: GT Sigma Xi Best PhD Thesis Award
+        date: 2022
+        awarder: Georgia Institute of Technology
+        description: Awarded for the best PhD thesis of 2021.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: International Postdoctoral Exchange Fellowship
+        date: 2021
+        awarder: Office of China Postdoc Council
+        description: Awarded for excellent young scientific researchers who earned their Ph.D. degree abroad.
+
+      - title: Larry O'Hara Graduate Student Fellowship
+        date: 2020
+        awarder: College of Science, Georgia Tech
+        description: Awarded for excellent young scientific researcher.
+
+      - title: Chateaubriand Fellowship
+        date: 2020
+        awarder: Embassy of France in the United States
+        description: Supported a 6-month visit to École Normale Supérieure Paris-Saclay to work with Prof. Jean-Michel Morel.
+
+      - title: Outstanding Student for Spring 2019
+        date: 2020
+        awarder: School of Mathematics, Georgia Tech
+
+      - title: Teaching Assistant Fellowship
+        date: 2017
+        awarder: Georgia Tech
+        description: For extraordinary TA performance in Fall 2016 and Spring 2017.
+
+      - title: "2nd Place, National Undergraduate Mathematical Contest in Modeling"
+        date: 2011
+        awarder: China Society for Industrial and Applied Mathematics (CSIAM)
+        description: Awarded to 1000 out of 40000 teams in China.
+
+      - title: National Scholarship
+        date: 2010
+        awarder: Chinese Government
+        description: Awarded for outstanding academic performance. Only 0.2% of nationwide applicants receive this scholarship.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: "What Can One Expect When Solving PDEs Using Shallow Neural Networks?"
+        authors: He RY, Liang Y, Zhao H, Zhong Y
+        journal: arXiv preprint arXiv:2510.27658
+        year: 2025
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: A Formalization of Image Vectorization by Region Merging
+        authors: He RY, Kang SH, Morel JM
+        journal: SIAM Journal on Imaging Sciences
+        year: 2025
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: "Euler's Elastica-Based Cartoon-Smooth-Texture Image Decomposition"
+        authors: He RY, Liu H
+        journal: SIAM Journal on Imaging Sciences, Vol. 18, No. 1, pp. 526–569
+        year: 2025
+
+      - title: "Group Projected Subspace Pursuit for Block Sparse Signal Reconstruction: Convergence Analysis and Applications"
+        authors: He RY, Liu H, Liu H
+        journal: Applied and Computational Harmonic Analysis, Vol. 75, 101726
+        year: 2025
+
+      - title: How Much Can One Learn a Partial Differential Equation from Its Solution?
+        authors: He Y, Zhao H, Zhong Y
+        journal: Foundations of Computational Mathematics, Vol. 24, No. 5, pp. 1595–1641
+        year: 2024
+
+      - title: A Deep Unrolled Neural Network for Real-Time MRI-Guided Brain Intervention
+        authors: Feng Y, He Z, et al.
+        journal: Nature Communications, 14, 8257
+        year: 2023
+
+      - title: Group Projected Subspace Pursuit for IDENTification of Variable Coefficient Differential Equations (GP-IDENT)
+        authors: He Y, Kang SH, Liao W, Liu H, Liu Y
+        journal: Journal of Computational Physics, Vol. 494, p. 112526
+        year: 2023
+
+      - title: "Asymptotic Theory of ℓ1-Regularized PDE Identification from a Single Noisy Trajectory"
+        authors: He Y, Huo X, Kang SH, Mei Y, Suh N
+        journal: "SIAM/ASA Journal on Uncertainty Quantification, Vol. 10, No. 3, pp. 1012–1036"
+        year: 2022
+
+      - title: Robust Identification of Differential Equations by Numerical Techniques from a Single Set of Noisy Observations
+        authors: He Y, Kang SH, Liao W, Liu H, Liu Y
+        journal: "SIAM Journal on Scientific Computing, Vol. 44, No. 3, pp. A1145–A1175"
+        year: 2022
+
+      - title: Curvature Regularized Surface Reconstruction from Point Clouds
+        authors: He Y, Kang SH, Liu H
+        journal: "SIAM Journal on Imaging Sciences, Vol. 13, No. 4, pp. 1834–1859"
+        year: 2020
+
+      - title: "Lattice Identification and Separation: Theory and Algorithm"
+        authors: He Y, Kang SH
+        journal: "SIAM Journal on Imaging Sciences, Vol. 12, No. 4, pp. 2063–2096"
+        year: 2019
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - category: Research Areas
+        skills:
+          - Variational Image Processing
+          - Data-driven PDE Identification
+          - Non-convex Optimization
+          - Machine Learning Theory
+          - Computer Graphics and Image Vectorization
+          - Deep Learning
+
+      - category: Programming
+        skills:
+          - MATLAB
+          - Python
+          - C++
+          - R
+          - LaTeX
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
+      - language: Chinese
+        fluency: Native speaker
+      - language: English
+        fluency: Fluent
+      - language: French
+        fluency: Intermediate
+      - language: Korean
+        fluency: Elementary
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - Oil painting
+      - Piano
+      - Digital photography
+      - Linguistics
+      - Swimming
