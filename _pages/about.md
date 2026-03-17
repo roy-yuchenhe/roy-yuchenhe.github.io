@@ -42,38 +42,38 @@ computing, and machine learning, with a focus on:
 
 ## My Paintings
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/paint1.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/paint2.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/paint3.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div style="display:flex;gap:8px;height:250px;margin:1.5rem 0;">
+  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+    <img src="/assets/img/paint1.jpg" style="width:100%;height:100%;object-fit:cover;" />
+  </div>
+  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+    <img src="/assets/img/paint2.jpg" style="width:100%;height:100%;object-fit:cover;" />
+  </div>
+  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+    <img src="/assets/img/paint3.jpg" style="width:100%;height:100%;object-fit:cover;" />
+  </div>
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/paint4.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/paint5.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/paint6.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div style="display:flex;gap:8px;height:250px;margin:1.5rem 0;">
+  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+    <img src="/assets/img/paint4.jpg" style="width:100%;height:100%;object-fit:cover;" />
+  </div>
+  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+    <img src="/assets/img/paint5.jpg" style="width:100%;height:100%;object-fit:cover;" />
+  </div>
+  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+    <img src="/assets/img/paint6.jpg" style="width:100%;height:100%;object-fit:cover;" />
+  </div>
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/paint7.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/paint8.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/paint9.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div style="display:flex;gap:8px;height:250px;margin:1.5rem 0;">
+  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+    <img src="/assets/img/paint7.jpg" style="width:100%;height:100%;object-fit:cover;" />
+  </div>
+  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+    <img src="/assets/img/paint8.jpg" style="width:100%;height:100%;object-fit:cover;" />
+  </div>
+  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+    <img src="/assets/img/paint9.jpg" style="width:100%;height:100%;object-fit:cover;" />
+  </div>
 </div>
