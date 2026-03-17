@@ -428,9 +428,9 @@ ninja.data = [{
           description: "Identify differential equation from trajectory data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-mathematical-and-deep-learning-for-image-processing",
-          title: 'Mathematical and Deep Learning for Image Processing',
-          description: "Diverse applications of mathematical tools and deep learning techniques to image processing",
+            },},{id: "projects-variational-image-decomposition",
+          title: 'Variational Image Decomposition',
+          description: "Variational models for image decomposition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "teachings-data-science-fundamentals",
