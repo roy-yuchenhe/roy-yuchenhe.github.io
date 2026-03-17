@@ -129,8 +129,6 @@ Our research pursues three interconnected objectives:
 
 ## Identifiability Theory
 
-## Identifiability Theory
-
 A fundamental question in data-driven PDE identification is: *given observed 
 solution data, when can the underlying PDE be uniquely recovered?*
 
@@ -147,11 +145,6 @@ solution data, when can the underlying PDE be uniquely recovered?*
 - **Stability analysis** — high-frequency perturbations to elliptic operators have 
   limited impact on the solution, with explicit bounds depending on the operator 
   order and regularity of the initial data
-
-#### References
-{% cite he2024much %}
-{% cite he2022asymptotic %}
-
 
 #### References
 
