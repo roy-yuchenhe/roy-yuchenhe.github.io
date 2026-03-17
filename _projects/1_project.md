@@ -19,7 +19,7 @@ Our research pursues three interconnected objectives:
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/ident_demo.png
     ---
 
 <div class="row">
