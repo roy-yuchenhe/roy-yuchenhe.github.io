@@ -2,7 +2,7 @@
 layout: page
 title: Image Reconstruction
 description: Applications of variational principles and deep learning to image reconstruction. 
-img: assets/img/ident_demo.png
+img: assets/img/image_rec_demo.png
 importance: 1
 category: work
 related_publications: true
