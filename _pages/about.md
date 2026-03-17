@@ -42,38 +42,42 @@ computing, and machine learning, with a focus on:
 
 ## My Paintings
 
+<div id="overlay" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.8);z-index:9999;justify-content:center;align-items:center;" onclick="this.style.display='none'">
+  <img id="overlay-img" src="" style="max-width:90%;max-height:90%;object-fit:contain;border-radius:8px;" />
+</div>
+
 <div style="display:flex;gap:8px;height:250px;margin:1.5rem 0;">
-  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+  <div style="flex:1;overflow:hidden;border-radius:8px;cursor:pointer;" onclick="document.getElementById('overlay-img').src='/assets/img/paint1.jpg';document.getElementById('overlay').style.display='flex';">
     <img src="/assets/img/paint1.jpg" style="width:100%;height:100%;object-fit:cover;" />
   </div>
-  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+  <div style="flex:1;overflow:hidden;border-radius:8px;cursor:pointer;" onclick="document.getElementById('overlay-img').src='/assets/img/paint2.jpg';document.getElementById('overlay').style.display='flex';">
     <img src="/assets/img/paint2.jpg" style="width:100%;height:100%;object-fit:cover;" />
   </div>
-  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+  <div style="flex:1;overflow:hidden;border-radius:8px;cursor:pointer;" onclick="document.getElementById('overlay-img').src='/assets/img/paint3.jpg';document.getElementById('overlay').style.display='flex';">
     <img src="/assets/img/paint3.jpg" style="width:100%;height:100%;object-fit:cover;" />
   </div>
 </div>
 
 <div style="display:flex;gap:8px;height:250px;margin:1.5rem 0;">
-  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+  <div style="flex:1;overflow:hidden;border-radius:8px;cursor:pointer;" onclick="document.getElementById('overlay-img').src='/assets/img/paint4.jpg';document.getElementById('overlay').style.display='flex';">
     <img src="/assets/img/paint4.jpg" style="width:100%;height:100%;object-fit:cover;" />
   </div>
-  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+  <div style="flex:1;overflow:hidden;border-radius:8px;cursor:pointer;" onclick="document.getElementById('overlay-img').src='/assets/img/paint5.jpg';document.getElementById('overlay').style.display='flex';">
     <img src="/assets/img/paint5.jpg" style="width:100%;height:100%;object-fit:cover;" />
   </div>
-  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+  <div style="flex:1;overflow:hidden;border-radius:8px;cursor:pointer;" onclick="document.getElementById('overlay-img').src='/assets/img/paint6.jpg';document.getElementById('overlay').style.display='flex';">
     <img src="/assets/img/paint6.jpg" style="width:100%;height:100%;object-fit:cover;" />
   </div>
 </div>
 
 <div style="display:flex;gap:8px;height:250px;margin:1.5rem 0;">
-  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+  <div style="flex:1;overflow:hidden;border-radius:8px;cursor:pointer;" onclick="document.getElementById('overlay-img').src='/assets/img/paint7.jpg';document.getElementById('overlay').style.display='flex';">
     <img src="/assets/img/paint7.jpg" style="width:100%;height:100%;object-fit:cover;" />
   </div>
-  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+  <div style="flex:1;overflow:hidden;border-radius:8px;cursor:pointer;" onclick="document.getElementById('overlay-img').src='/assets/img/paint8.jpg';document.getElementById('overlay').style.display='flex';">
     <img src="/assets/img/paint8.jpg" style="width:100%;height:100%;object-fit:cover;" />
   </div>
-  <div style="flex:1;min-width:40px;overflow:hidden;border-radius:8px;transition:flex 0.4s ease;cursor:pointer;" onmouseover="this.style.flex=4" onmouseout="this.style.flex=1">
+  <div style="flex:1;overflow:hidden;border-radius:8px;cursor:pointer;" onclick="document.getElementById('overlay-img').src='/assets/img/paint9.jpg';document.getElementById('overlay').style.display='flex';">
     <img src="/assets/img/paint9.jpg" style="width:100%;height:100%;object-fit:cover;" />
   </div>
 </div>
