@@ -2,7 +2,7 @@
 layout: page
 title: Mathematical and Deep Learning for Image Processing
 description: Diverse applications of mathematical tools and deep learning techniques to image processing
-img: assets/img/ident_demo.png
+img: assets/img/img_process_demo.png
 importance: 1
 category: work
 related_publications: true
