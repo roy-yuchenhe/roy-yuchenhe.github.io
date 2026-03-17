@@ -21,7 +21,8 @@ reconstructs the original. Our methods enable each component to be processed,  a
     </div>
 </div>
 <div class="caption">
-    We developed an efficient and effective three-component (catroon-smooth-oscillation) image decomposition variational model. 
+    We developed an efficient and effective three-component (cartoon-smooth-oscillation) image decomposition variational model.
+    [<a href="https://github.com/roy-yuchenhe/elastica-image-decomposition" target="_blank">Code</a>]
 </div>
 
 <div class="row">
