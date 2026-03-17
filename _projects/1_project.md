@@ -18,9 +18,9 @@ Our research pursues three interconnected objectives:
 
 ---
 
-## Robust PDE Identification
+## Identification from Noisy Trajectory Data
 
-*Description coming soon.*
+*Unlike classical regression, the feature matrix consists of differential quantities estimated from single noisy trajectory data. Finite difference schemes inherently amplify noise, making accurate feature estimation and reliable model selection highly challenging. We develop robust computational techniques and rigorous model validation methods to accurately recover governing equations from noisy observations.*
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
