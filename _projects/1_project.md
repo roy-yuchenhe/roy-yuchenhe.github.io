@@ -148,5 +148,5 @@ solution data, when can the underlying PDE be uniquely recovered?*
 
 #### References
 
-{% cite he2024howmuch %}
+{% cite he2024much %}
 {% cite he2022asymptotic %}
