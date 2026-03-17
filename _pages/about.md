@@ -14,15 +14,15 @@ profile:
     <p>Tat Chee Avenue, Kowloon, Hong Kong SAR</p>
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
