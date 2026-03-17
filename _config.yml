@@ -410,28 +410,16 @@ enable_project_categories: true # enables categorization of projects into multip
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
-
-# -----------------------------------------------------------------------------
-# Optional Features
-# -----------------------------------------------------------------------------
-
-enable_google_analytics: false
-enable_cronitor_analytics: false
-...
-enable_progressbar: true
-enable_video_embedding: false
-
 # News and posts on about page
 news:
   enabled: false
   limit: 5
-  scrollable: false
+  scrollable: true
 
 latest_posts:
   enabled: false
   limit: 3
-  scrollable: false
-
+  scrollable: true
 
 # -----------------------------------------------------------------------------
 # Library versions
