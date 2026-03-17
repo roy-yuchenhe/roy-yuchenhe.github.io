@@ -123,60 +123,11 @@ cv:
         description: Awarded for outstanding academic performance. Only 0.2% of nationwide applicants receive this scholarship.
 
     Publications:
-      - title: "What Can One Expect When Solving PDEs Using Shallow Neural Networks?"
-        authors: He RY, Liang Y, Zhao H, Zhong Y
-        journal: arXiv preprint arXiv:2510.27658
-        year: 2025
-
-      - title: A Formalization of Image Vectorization by Region Merging
-        authors: He RY, Kang SH, Morel JM
-        journal: SIAM Journal on Imaging Sciences
-        year: 2025
-
-      - title: "Euler's Elastica-Based Cartoon-Smooth-Texture Image Decomposition"
-        authors: He RY, Liu H
-        journal: SIAM Journal on Imaging Sciences, Vol. 18, No. 1, pp. 526–569
-        year: 2025
-
-      - title: "Group Projected Subspace Pursuit for Block Sparse Signal Reconstruction: Convergence Analysis and Applications"
-        authors: He RY, Liu H, Liu H
-        journal: Applied and Computational Harmonic Analysis, Vol. 75, 101726
-        year: 2025
-
-      - title: How Much Can One Learn a Partial Differential Equation from Its Solution?
-        authors: He Y, Zhao H, Zhong Y
-        journal: Foundations of Computational Mathematics, Vol. 24, No. 5, pp. 1595–1641
-        year: 2024
-
-      - title: A Deep Unrolled Neural Network for Real-Time MRI-Guided Brain Intervention
-        authors: Feng Y, He Z, et al.
-        journal: Nature Communications, 14, 8257
-        year: 2023
-
-      - title: Group Projected Subspace Pursuit for IDENTification of Variable Coefficient Differential Equations (GP-IDENT)
-        authors: He Y, Kang SH, Liao W, Liu H, Liu Y
-        journal: Journal of Computational Physics, Vol. 494, p. 112526
-        year: 2023
-
-      - title: "Asymptotic Theory of ℓ1-Regularized PDE Identification from a Single Noisy Trajectory"
-        authors: He Y, Huo X, Kang SH, Mei Y, Suh N
-        journal: "SIAM/ASA Journal on Uncertainty Quantification, Vol. 10, No. 3, pp. 1012–1036"
-        year: 2022
-
-      - title: Robust Identification of Differential Equations by Numerical Techniques from a Single Set of Noisy Observations
-        authors: He Y, Kang SH, Liao W, Liu H, Liu Y
-        journal: "SIAM Journal on Scientific Computing, Vol. 44, No. 3, pp. A1145–A1175"
-        year: 2022
-
-      - title: Curvature Regularized Surface Reconstruction from Point Clouds
-        authors: He Y, Kang SH, Liu H
-        journal: "SIAM Journal on Imaging Sciences, Vol. 13, No. 4, pp. 1834–1859"
-        year: 2020
-
-      - title: "Lattice Identification and Separation: Theory and Algorithm"
-        authors: He Y, Kang SH
-        journal: "SIAM Journal on Imaging Sciences, Vol. 12, No. 4, pp. 2063–2096"
-        year: 2019
+      - title: >
+          <a href="/publications/">View full publication list on the Publications page →</a>
+        authors: ""
+        journal: ""
+        year: ""
 
     Skills:
       - category: Research Areas
