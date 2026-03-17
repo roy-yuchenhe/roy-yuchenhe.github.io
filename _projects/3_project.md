@@ -14,7 +14,7 @@ Image reconstruction is a fundamental inverse problem arising across diverse sci
 
 ## Tomographic Reconstruction
 
-*Tomographic reconstruction aims at recovering the .*
+*Tomographic reconstruction aims at recovering the internal structure of an object from a collection of projected measurements taken at different angles. The problem is inherently ill-posed. We develop variational and deep learning models that incorporate prior knowledge of the underlying structure to achieve high-quality reconstruction from limited and possibly dynamical data.*
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
