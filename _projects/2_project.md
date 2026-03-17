@@ -22,25 +22,27 @@ reconstructs the original. Our methods enable each component to be processed,  a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/demo_GPIDENT.png" title="Some results" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/demo_euler.png" title="Euler's elastica-based image decomposition" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Some identification results
+    We developed an efficient and effective three-component (catroon-smooth-oscillation) image decomposition variational model. 
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/patch_ident.png" title="CaSLR" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vectorialTV_demo.png" title="Color image decomposition using Vectorial total symmetric variation (VTSV)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Consistent and Sparse Local Regression (CaSLR) identifies varying coefficient PDEs using local patches, within each of which the varying coefficients are well approximated by constants.
+    We proposed a family of Vectorial Total Symmetric Variation (VTSV) for efficiently coupling channel information during decomposition.
 </div>
 
 #### References
 
-{% cite he2022robust %}
+{% cite he2026vectorial %}
+{% cite he2025image %}
+{% cite he2025euler %}
 
 ---
 
