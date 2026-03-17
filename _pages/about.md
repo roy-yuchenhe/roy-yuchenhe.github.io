@@ -27,6 +27,13 @@ latest_posts:
   limit: 3
 ---
 
-Roy He holds a Ph.D. from Georgia Institute of Technology (Best thesis), a Master's degree from Columbia University, and a B.Sc. (Honours) from Chongqing University. He conducted research as a visiting researcher at Ecole Normale Superieure Paris-Saclay in 2020. He served as a post-doctoral researcher at Shanghai Jiao Tong University from 2021 to 2023, and joined City University of Hong Kong as an Assistant Professor in 2023.
+Roy He holds a Ph.D. in Mathematics from the Georgia Institute of Technology (GT Sigma Xi Best Thesis Award, 2021; advisor: [Prof. Sung Ha Kang](https://math.gatech.edu/people/sung-ha-kang)), an M.A. in Statistics from Columbia University, and a B.Sc. with Honours from Chongqing University. In 2020, he was a visiting researcher at École Normale Supérieure Paris-Saclay under [Prof. Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/). In 2021, he was appointed as a postdoctoral researcher at Duke University under [Prof. Hongkai Zhao](https://scholars.duke.edu/person/hongkai.zhao); due to COVID-related travel restrictions, he concurrently served as a postdoctoral researcher at the Shanghai Jiao Tong University Institute of Natural Sciences under [Prof. Xiaoqun Zhang](https://math.sjtu.edu.cn/faculty/xqzhang/). He joined City University of Hong Kong as an Assistant Professor in the Department of Mathematics in 2023.
 
-His research interests encompass variational and statistical image processing (segmentation, decomposition, reconstruction, color enhancement), data-driven modeling (PDE identification), mathematical computer graphics (image vectorization), numerical PDE and optimization, and deep learning theory and applications in computer vision.
+His research lies at the intersection of applied mathematics, scientific 
+computing, and machine learning, with a focus on:
+
+- **Variational and statistical image processing** — segmentation, decomposition, reconstruction, and color enhancement
+- **Data-driven mathematical modeling** — identification of differential equations from observed trajectory data
+- **Mathematical computer graphics** — image vectorization and geometric representations
+- **Numerical PDE and optimization** — non-convex optimization, primal-dual algorithms, and operator splitting methods
+- **Deep learning theory and applications** — theoretical foundations and applications in computer vision and inverse problems
