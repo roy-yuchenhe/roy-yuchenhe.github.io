@@ -13,7 +13,7 @@ profile:
     <p>City University of Hong Kong</p>
     <p>Tat Chee Avenue, Kowloon, Hong Kong SAR</p>
 
-selected_papers: true
+selected_papers: false
 social: false
 
 announcements:
