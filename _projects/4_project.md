@@ -19,7 +19,7 @@ rendering.
 
 ## Shape Vectorization by Affine Shortening Flow
 
-*We leverage affine shortening flow to remove pixelization artifacts while preserving the scale-invariant geometric features of image contours. *
+*We leverage affine shortening flow to remove pixelization artifacts while preserving the scale-invariant geometric features of image contours.*
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,18 +30,11 @@ rendering.
     Compared to commercial software, our approach yields more interpretable and efficienct vector graphics.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/patch_ident.png" title="CaSLR" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Consistent and Sparse Local Regression (CaSLR) identifies varying coefficient PDEs using local patches, within each of which the varying coefficients are well approximated by constants.
-</div>
-
 #### References
 
-{% cite he2022robust %}
+{% cite he2023binary %}
+{% cite he2022silhouette %}
+{% cite he2021accurate %}
 
 ---
 
