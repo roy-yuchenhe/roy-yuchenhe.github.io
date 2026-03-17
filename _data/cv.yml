@@ -130,36 +130,27 @@ cv:
         year: ""
 
     Skills:
-      - category: Research Areas
-        skills:
+      - name: Research Areas
+        keywords:
           - Variational Image Processing
           - Data-driven PDE Identification
           - Non-convex Optimization
           - Machine Learning Theory
           - Computer Graphics and Image Vectorization
           - Deep Learning
-
-      - category: Programming
-        skills:
+      - name: Programming
+        keywords:
           - MATLAB
           - Python
           - C++
           - R
           - LaTeX
 
-    Languages:
-      - language: Chinese
-        fluency: Native speaker
-      - language: English
-        fluency: Fluent
-      - language: French
-        fluency: Intermediate
-      - language: Korean
-        fluency: Elementary
-
     Interests:
-      - Oil painting
-      - Piano
-      - Digital photography
-      - Linguistics
-      - Swimming
+      - name: Hobbies
+        keywords:
+          - Oil painting
+          - Piano
+          - Digital photography
+          - Linguistics
+          - Swimming
