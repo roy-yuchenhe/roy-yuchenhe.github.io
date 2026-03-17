@@ -1,24 +1,19 @@
 ---
 layout: page
-title: Mathematical and Deep Learning for Image Processing
-description: Diverse applications of mathematical tools and deep learning techniques to image processing
+title: Variational Image Decomposition
+description: Variational models for image decomposition
 img: assets/img/img_process_demo.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Images encode rich visual information across multiple scales and structures. 
-We develop variational and statistical methods to extract, analyze, and process 
-this information, with applications spanning image decomposition, reconstruction, 
-inpainting, segmentation, and color enhancement.
+Image decomposition aims to separate an image into visually meaningful components whose superposition 
+reconstructs the original. Our methods enable each component to be processed,  analyzed, or enhanced independently, with applications in denoising, texture separation, and image editing.
 
 ---
 
 ## Image Decomposition
-
-*Image decomposition aims to separate an image into visually meaningful components whose superposition 
-reconstructs the original. Our methods enable each component to be processed,  analyzed, or enhanced independently, with applications in denoising, texture separation, and image editing.*
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
