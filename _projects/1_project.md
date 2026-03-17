@@ -75,7 +75,7 @@ Our research pursues three interconnected objectives:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="placeholder" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/demo_STOCHIDENT.png" title="placeholder" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -84,7 +84,7 @@ Our research pursues three interconnected objectives:
 
 #### References
 
-{% cite cui2025stochident %}
+{% cite cui2025stoch %}
 
 ---
 
@@ -103,7 +103,7 @@ Our research pursues three interconnected objectives:
 
 #### References
 
-{% cite he2025twophase %}
+{% cite yang2026phase %}
 
 ---
 
