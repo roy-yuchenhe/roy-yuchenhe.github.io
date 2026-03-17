@@ -129,8 +129,28 @@ Our research pursues three interconnected objectives:
 
 ## Identifiability Theory
 
-A fundamental question in data-driven PDE identification is: *under what conditions 
-can the governing equation be uniquely recovered from observed data?* We showed:
+## Identifiability Theory
+
+A fundamental question in data-driven PDE identification is: *given observed 
+solution data, when can the underlying PDE be uniquely recovered?*
+
+- **Data space characterization** — for elliptic operators, all snapshots of a single 
+  trajectory stay $\varepsilon$-close to a linear space of dimension $O(|\log \varepsilon|^2)$, 
+  revealing the intrinsic ill-conditioning of single-trajectory identification
+- **Identifiability from two instants** — for PDEs with constant coefficients, the 
+  parameters are uniquely determined from solutions at two time instants $u(x,t_1)$, 
+  $u(x,t_2)$ if the Fourier support $Q$ satisfies sharp combinatorial and geometric 
+  conditions
+- **Variable coefficient identifiability** — for PDEs with variable coefficients, 
+  $\binom{n+d}{d}$ time instants suffice for local recovery, provided the solution 
+  contains sufficiently diverse Fourier modes
+- **Stability analysis** — high-frequency perturbations to elliptic operators have 
+  limited impact on the solution, with explicit bounds depending on the operator 
+  order and regularity of the initial data
+
+#### References
+{% cite he2024much %}
+{% cite he2022asymptotic %}
 
 
 #### References
