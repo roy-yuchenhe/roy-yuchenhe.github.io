@@ -38,4 +38,21 @@ rendering.
 
 ---
 
+## Topological-aware Color Image Vectorization
 
+*By careful analysis of local topological patterns in raster images, we develop a surgical strategy for image vectorization that preserves prominent singularities with high fidelity.*
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/topo_vec_demo.png" title="Vectorization of pixel arts" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Our approach produces vector graphics with high fidelity.
+</div>
+
+#### References
+
+{% cite he2023binary %}
+{% cite he2022silhouette %}
+{% cite he2021accurate %}
