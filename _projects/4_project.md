@@ -53,6 +53,4 @@ rendering.
 
 #### References
 
-{% cite he2023binary %}
-{% cite he2022silhouette %}
-{% cite he2021accurate %}
+{% cite he2023topology %}
